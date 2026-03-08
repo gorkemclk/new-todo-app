@@ -47,6 +47,8 @@ npm run dev
 
 Proje `http://localhost:5173` adresinde çalışacaktır. Ben projemi ayrıca Netlify kullanarak yayına aldım.
 
+Netlify Link: https://grkmwebdevelop.netlify.app/
+
 ---
 *Umarım bu projedeki geliştirme adımları ve kod yapısı anlaşılır olmuştur!*
 >>>>>>> initial commit
